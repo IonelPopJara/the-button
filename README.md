@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Button (Provisory name) (Trademark pending)
 
-## Getting Started
+One of mankind's oldest enigmas is "how many times can I press a button before something bad happens?". _The Button™_ is a revolutionary idea that aims to resolve this eternal question, ~~and also end world hunger~~.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+The Button is an _NextJS_ app designed to do something. What's going to do exactly? That's for the future to tell.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* NextJS
+* Tailwind (?) (I don't know what that is but Adrian told me to install it, so I think I did)
+* WebGL (Probably. Shaders are cute)
+* Monster (The main source of energy)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## TODO
 
-## Learn More
+- [ ] A bunch of stuff
 
-To learn more about Next.js, take a look at the following resources:
+## Developers
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Adrian Hassa (@RacoonLover138)
+Ionel Pop (@CrazyAssWeeb98)
