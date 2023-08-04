@@ -19,4 +19,11 @@ The Button is an _NextJS_ app designed to do something. What's going to do exact
 ## Developers
 
 Adrian Hassa (@RacoonLover138)
+
 Ionel Pop (@CrazyAssWeeb98)
+
+## How to run
+
+```bash
+npm run dev
+```
